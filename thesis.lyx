@@ -1,0 +1,83 @@
+Notes:
+
+THESIS SUBMITTED FOR THE DEGREE OF MASTER OF SCIENCEUse the official terms and title page layout of your university instead of this one!
+
+Transferable Tight-Binding Model for Boron
+
+Joe Chan13M02310
+
+February 2015
+
+\vspace{\baselineskip}Saito GroupDepartment of PhysicsTokyo Institute of Technology
+
+
+
+Left Header: \rightmarkDefines the header line. If your university does not have special rules what must be in the header/footer, leave the settings as they are.
+
+Right Header: \leftmark
+
+Left Footer: \thepage
+
+Center Footer: 
+
+Right Footer: \thepage
+
+
+
+
+
+\pagestyle{plain}Usually the summary should not have page headers. If it should, remove this TeX code.
+
+
+
+
+
+\pagestyle{fancy}Reset page style to get page headers again.
+
+Left Header: \chaptername \thechapter\rightmarkEnable page headers and add the chapter to the header line.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Left Header: Acknowledgmentsprint “Acknowledgments” in the left header line
+
+Right Header: Acknowledgmentsprint “Acknowledgments” in the right header line
+
+
+
+Appendix is of course optional
+
+
+
+Left Header: \rightmarkremove the chapter from the header line
+
+Right Header: \leftmarkrestore the right header line
+
+
+
+
+
+Left Header: Nomenclatureprint “Nomenclature” in the header line
+
+Right Header: Nomenclature
+
+The width of the nomenclature entries can be changed by clicking on the nomenclature inset.
